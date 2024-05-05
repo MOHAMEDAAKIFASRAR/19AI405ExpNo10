@@ -1,6 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY: M.PAVITHRA
-## REG NO: 212222100032
+## DATE : 13/05/2024
+## DEVELOPED BY: Mohamed aakif asrar S
+## REG NO: 212223240088
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
